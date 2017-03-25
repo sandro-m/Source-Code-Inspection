@@ -35,7 +35,7 @@ public class TicketMachine {
     public int getSaldo() {
         return saldo;
     }
-
+    // teste commit
     public Iterator<Integer> getTroco() {
         return null;
     }
